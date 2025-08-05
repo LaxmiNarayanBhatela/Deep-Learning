@@ -1,2 +1,2 @@
-# Deep-Learning
-This repository contains the project related with deep learning.
+# Bank Customer Churn Project
+Developed a predictive model to identify potential bank customer churn using Artificial Neural Networks (ANN) built with TensorFlow. The model was trained on historical customer data, including demographics, account information, and transaction patterns. After preprocessing and feature engineering, the ANN was designed with input, hidden, and output layers optimized for binary classification. The model achieved high accuracy and recall, helping the bank proactively retain customers by identifying those at high risk of leaving. This solution enables data-driven decision-making for targeted customer engagement strategies.
